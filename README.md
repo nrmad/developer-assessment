@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +33,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. -->
+
+# Video Preview Next.js Project
+
+This is a Next.js project that demonstrates a video preview feature. The application fetches video data from an external source and displays it with interactive controls.
+
+## Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+- Node.js (version 18.x or higher)
+- npm (version 6.x or higher) or yarn (version 1.x or higher)
+
+### Installation and Running
+
+1. **Clone the repository, install dependencies, and start the development server:**
+
+   ```bash
+   git clone https://github.com/nrmad/developer-assessment
+   cd developer-assessment
+   npm install
+   npm run dev
